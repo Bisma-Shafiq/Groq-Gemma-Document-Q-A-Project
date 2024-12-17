@@ -150,3 +150,6 @@ Feel free to contribute to the project by submitting issues or pull requests. An
 - **Groq AI** for providing the Gemma-7B-IT model.
 - **Google Generative AI** for its powerful embeddings.
 - **LangChain** for enabling seamless integration of LLMs and vector search tools.
+
+
+<video controls src="gemma with groq.mp4" title="Title"></video>
