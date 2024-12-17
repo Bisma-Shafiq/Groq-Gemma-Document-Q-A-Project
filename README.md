@@ -4,6 +4,12 @@ This project leverages **Groq's Gemma-7B-IT Model**, **Google Generative AI Embe
 
 ---
 
+
+<video controls src="gemma with groq.mp4" title="Title"></video>
+
+
+---
+
 ## Features
 
 1. **Context-Aware Q&A**: Ask questions from PDF files, and receive precise answers based only on the document context.
@@ -152,4 +158,3 @@ Feel free to contribute to the project by submitting issues or pull requests. An
 - **LangChain** for enabling seamless integration of LLMs and vector search tools.
 
 
-<video controls src="gemma with groq.mp4" title="Title"></video>
